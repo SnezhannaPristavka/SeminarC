@@ -29,7 +29,7 @@ else Console.WriteLine("Данная точка находится в " + quartN
 
 }
 */
-// Задача 3
+// Задача 3 Найти расстояние между двумя точками.
 
 double GetDistance(double x1, double y1, double x2, double y2)
 {
